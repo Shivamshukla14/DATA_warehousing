@@ -1,0 +1,22 @@
+--Comman--
+aggregate
+condtional split
+data conversion
+derived column
+look upo
+merge 
+merge join
+multi cast
+row count
+sort 
+union all
+--other--
+Character map
+copy column
+export column
+import column
+percentage sampling
+row sampling
+term extraction
+term lookup
+pivot
